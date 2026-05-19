@@ -1,4 +1,4 @@
-/* Aura Modern Blog Platform Stylesheet - Light Theme */
+/* WaWa News Modern Blog Platform Stylesheet - Light Theme */
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
 
 :root {
@@ -455,7 +455,7 @@ main {
 
 .featured-img-wrapper {
   position: relative;
-  height: 100%;
+  height: 380px;
   min-height: 320px;
   overflow: hidden;
   background-color: var(--surface-hover);

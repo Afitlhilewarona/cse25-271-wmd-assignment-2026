@@ -243,7 +243,7 @@ const ARTICLES_DB = [
 let state = {
   currentCategory: "all",
   searchQuery: "",
-  bookmarks: JSON.parse(localStorage.getItem("aura-bookmarks")) || []
+  bookmarks: JSON.parse(localStorage.getItem("wawa-bookmarks")) || []
 };
 
 const bookmarkCountBadge = document.getElementById("bookmark-count");
@@ -460,7 +460,7 @@ function toggleBookmark(articleId) {
     state.bookmarks.splice(index, 1);
   }
   
-  localStorage.setItem("aura-bookmarks", JSON.stringify(state.bookmarks));
+  localStorage.setItem("wawa-bookmarks", JSON.stringify(state.bookmarks));
   updateBookmarkBadge();
   if (articlesGrid) renderArticles();
   if (featuredContainer) renderFeatured();
@@ -549,7 +549,7 @@ function openArticleDetail(articleId) {
       <div class="detail-author-avatar">${article.author.avatarInitials}</div>
       <div class="detail-author-meta">
         <h4>${article.author.name}</h4>
-        <p>${article.author.title} &middot; Aura Contributor</p>
+        <p>${article.author.title} &middot; WaWa News Contributor</p>
       </div>
     </div>
     <div class="detail-content">

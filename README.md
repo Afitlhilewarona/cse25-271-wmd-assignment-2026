@@ -1,8 +1,8 @@
-# Aura.
+# WaWa News.
 
-Aura is a modern, high-performance, and minimal blogging platform designed for the modern creator. Built with vanilla HTML, CSS, and JavaScript, it offers a premium glassmorphic user interface, cohesive green design system accents, and an interactive client-side reading experience.
+WaWa News is a modern, high-performance, and minimal blogging platform designed for the modern creator. Built with vanilla HTML, CSS, and JavaScript, it offers a premium glassmorphic user interface, cohesive green design system accents, and an interactive client-side reading experience.
 
-![Aura Header Banner](images/1.jpg)
+![WaWa News Header Banner](images/1.jpg)
 
 ## Features
 
@@ -19,7 +19,7 @@ Aura is a modern, high-performance, and minimal blogging platform designed for t
 ```text
 ├── index.html          # Main homepage containing the hero and articles feed
 ├── articles.html       # Full archive listing all publications
-├── about.html          # About page presenting Aura's values and mission
+├── about.html          # About page presenting WaWa News's values and mission
 ├── contact.html        # Clean, centered contact form page
 ├── css/
 │   └── style.css       # Core design system tokens, typography, and styles
@@ -31,7 +31,7 @@ Aura is a modern, high-performance, and minimal blogging platform designed for t
 
 ## Getting Started
 
-Since Aura is built using pure frontend technologies (HTML, CSS, and JS), it requires no compile steps or dependency installations.
+Since WaWa News is built using pure frontend technologies (HTML, CSS, and JS), it requires no compile steps or dependency installations.
 
 1. Clone or download the repository.
 2. Open `index.html` directly in your browser, or run a local development server:
