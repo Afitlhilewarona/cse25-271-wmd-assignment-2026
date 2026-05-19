@@ -34,7 +34,7 @@ const ARTICLES_DB = [
       avatarInitials: "HV",
       title: "Staff Designer"
     },
-    image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80"
+    image: "images/1.jpg"
   },
   {
     id: "micro-interactions",
@@ -63,7 +63,7 @@ const ARTICLES_DB = [
       avatarInitials: "MG",
       title: "UI Engineer"
     },
-    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80"
+    image: "images/2.jpg"
   },
   {
     id: "deep-work-frameworks",
@@ -97,7 +97,7 @@ const ARTICLES_DB = [
       avatarInitials: "SJ",
       title: "Ops Director"
     },
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=800&q=80"
+    image: "images/3.jpg"
   },
   {
     id: "minimal-software",
@@ -131,7 +131,7 @@ const ARTICLES_DB = [
       avatarInitials: "AC",
       title: "Systems Architect"
     },
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    image: "images/4.jpg"
   },
   {
     id: "future-of-css",
@@ -156,7 +156,7 @@ const ARTICLES_DB = [
       avatarInitials: "MG",
       title: "UI Engineer"
     },
-    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80"
+    image: "images/5.jpg"
   },
   {
     id: "rust-for-web-dev",
@@ -181,7 +181,7 @@ const ARTICLES_DB = [
       avatarInitials: "AC",
       title: "Systems Architect"
     },
-    image: "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=800&q=80"
+    image: "images/6.jpg"
   },
   {
     id: "stoicism-in-code",
@@ -206,7 +206,7 @@ const ARTICLES_DB = [
       avatarInitials: "HV",
       title: "Staff Designer"
     },
-    image: "https://images.unsplash.com/photo-1516116211223-5c359a36298a?auto=format&fit=crop&w=800&q=80"
+    image: "images/7.jpg"
   },
   {
     id: "calm-tech-philosophy",
@@ -236,7 +236,7 @@ const ARTICLES_DB = [
       avatarInitials: "SJ",
       title: "Ops Director"
     },
-    image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80"
+    image: "images/3.jpg"
   }
 ];
 
